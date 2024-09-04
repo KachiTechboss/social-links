@@ -2,9 +2,9 @@
 
 
     body{
-        background-color:  hsl(0, 0%, 8%);
-        padding: 50px;
+        background-color:  hwb(0 8% 92%);
         font-family: "Inter", sans-serif;
+    
     }
     .body-container{
         background-color:  hsl(0, 0%, 12%);
